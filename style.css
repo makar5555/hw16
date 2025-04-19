@@ -1,0 +1,10 @@
+.bg-box {
+    height: 100px;
+    background: url(green-png-44873.png) bottom / 250px 250px repeat-x,
+    url(lamp-png-34914.png) top / 60px 60px repeat-x,
+    url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.webp) center / 600px 400px no-repeat,
+    url(izak.webp) left / 60px 60px repeat-y,
+    url(smachno.png) right / 60px 60px repeat-y;
+    height: 1000px;
+    background-color: green;
+}
